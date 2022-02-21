@@ -1,0 +1,1 @@
+# VerticalCardPager-package-example
